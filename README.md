@@ -43,9 +43,8 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### 🖥️ Frontend Development
+![Go](https://skillicons.dev/icons?i=go)
+![SQL](https://skillicons.dev/icons?i=sqlite,postgresql,mysql) ### 🖥️ Frontend Development
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Redux](https://skillicons.dev/icons?i=redux)
@@ -56,15 +55,16 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Redis](https://skillicons.dev/icons?i=redis)
-![Postman](https://skillicons.dev/icons?i=postman) ### 🧠 AI, ML & Data Science
+![Postman](https://skillicons.dev/icons?i=postman)
+
+### 🧠 AI, ML & Data Science
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![NLTK](https://skillicons.dev/icons?i=nlp)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
+![NLTK](https://skillicons.dev/icons?i=nlp) ![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 ![Seaborn](https://skillicons.dev/icons?i=seaborn)
