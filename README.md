@@ -4,9 +4,7 @@
 
 **AI Engineer & Full Stack Developer**
 
-*Building smart solutions that automate workflows and solve real problems.*
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Smart+Solutions+with+AI;Automating+Workflows+for+Developers;Creating+Real-Time+Systems;Always+Learning+New+Technologies!&font=Fira%20Code&center=true&width=600&height=45&color=00d9ff&size=24&pause=1000" alt="Typing Animation" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samarthify&color=blueviolet&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/samarthify?label=Follow&style=social)](https://github.com/samarthify)
@@ -17,81 +15,79 @@
 
 ## 🚀 About Me
 
-I specialize in **AI integration** and **full-stack development**, focusing on creating tools that make developers' lives easier. Whether it's automating code reviews with GPT-4, building real-time communication systems, or developing computer vision apps, I love crafting solutions people actually want to use.
+I specialize in **AI integration** and **full-stack development**, building tools that save time and improve productivity—from automating code reviews and building real-time communication platforms, to creating computer vision apps for fitness.
 
-**Current Focus:** AI-powered automation, real-time systems, and developer productivity tools.
+*Current Focus:* AI-powered automation, real-time systems, and developer experience.
 
 ---
 
-## 🎯 Featured Projects
+## 🎬 Featured Projects
 
 ### 🤖 AI Code Review Assistant
-*Reduced team review time by 40% with intelligent automation.*
+**Reduced team review time by 40% with intelligent automation.**
 
-**The Challenge:** Manual code reviews were creating bottlenecks and inconsistent standards.
+- Web app with language-agnostic editor  
+- GPT-4 integration via custom API 
+- VS Code extension with inline and chat-based feedback
 
-**My Solution:** Built an end-to-end AI-powered solution featuring:
-- Web application with language-agnostic code editor
-- GPT-4 integration via custom API with engineered prompts
-- VS Code extension with inline suggestions and chat functionality
-
-**Impact:** 40% faster reviews, consistent coding standards, enhanced developer productivity
-
-**Tech:** `Python` `GPT-4 API` `React` `VS Code Extension API` `Node.js`
+<details>
+<summary>See how it works</summary>
+<img src="https://media.giphy.com/media/26FPnsRww59hBJVWU/giphy.gif" width="350" alt="Code Review Assistant Demo"/>
+</details>
 
 ---
 
 ### 🎤 Real-Time Voice Communication Platform
-*Sub-200ms latency with intelligent transcription and analytics.*
+**Ultra-low (<200ms) latency audio, live transcription, and analytics.**
 
-**The Challenge:** Existing voice platforms suffered from high latency and lacked meaningful analytics.
+- WebRTC and Socket.io for real-time audio
+- Vosk and NLTK for transcription, summarization, sentiment
+- Scalable for 50+ users
 
-**My Solution:** Engineered a P2P communication system with:
-- WebRTC and Socket.io for ultra-low latency audio
-- Real-time transcription using Vosk
-- Sentiment analysis and call summaries via NLTK
-- Scalable architecture supporting 50 concurrent users
-
-**Impact:** <200ms audio latency, actionable conversation insights, improved engagement
-
-**Tech:** `WebRTC` `Socket.io` `React` `Node.js` `MongoDB` `PostgreSQL` `Vosk` `NLTK`
+<details>
+<summary>Live Platform Features</summary>
+<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="350" alt="Voice Platform Demo"/>
+</details>
 
 ---
 
 ### 🏋️ AI Fitness Trainer
-*Computer vision-powered workout companion with real-time form feedback.*
+**MediaPipe-powered workout app with pose tracking and rep counting.**
 
-**The Challenge:** Lack of accessible, real-time workout feedback without expensive equipment.
+- MediaPipe Pose ML model (33-point tracking)
+- Real-time feedback for multiple exercises
+- Modular design for expanding workouts
 
-**My Solution:** Developed an intelligent fitness assistant using:
-- MediaPipe Pose estimation for 33-point body tracking
-- Real-time rep counting and form analysis
-- Modular design for multiple exercises
-- OpenCV for efficient video processing
-
-**Impact:** Affordable AI fitness coaching, improved workout safety, enhanced user engagement
-
-**Tech:** `MediaPipe` `OpenCV` `Python` `Computer Vision`
+<details>
+<summary>Form Tracking Example</summary>
+<img src="https://media.giphy.com/media/3o7aCSYNcDrJXyBqCc/giphy.gif" width="350" alt="AI Fitness Trainer Demo"/>
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript  
-**Frontend:** React • Next.js • Redux • TailwindCSS • Material-UI  
-**Backend:** Node.js • MongoDB • PostgreSQL • Redis  
-**AI/ML:** GPT-4 API • MediaPipe • NLTK • Vosk • TensorFlow  
-**DevOps:** Docker • AWS (S3, Lambda) • Vercel • GitHub Actions
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-ff9800?style=for-the-badge&logo=google&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samarthify&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthify&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=samarthify&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthify&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
 </div>
 
 ---
