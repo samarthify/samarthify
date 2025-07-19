@@ -37,42 +37,21 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 *Here's a snapshot of the technologies I wield to build powerful and intelligent applications:*
 
 ### 👨‍💻 Languages & Core
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Go](https://skillicons.dev/icons?i=go)
-![SQL](https://skillicons.dev/icons?i=sqlite,postgresql,mysql) ### 🖥️ Frontend Development
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Redux](https://skillicons.dev/icons?i=redux)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,go" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sqlite,postgresql,mysql" /></a>
+
+### 🖥️ Frontend Development
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" /></a>
 
 ### ⚙️ Backend & Databases
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express.js](https://skillicons.dev/icons?i=express)
-![Flask](https://skillicons.dev/icons?i=flask)
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![Redis](https://skillicons.dev/icons?i=redis)
-![Postman](https://skillicons.dev/icons?i=postman)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,mongodb,postgresql,sqlite,redis,postman" /></a>
 
 ### 🧠 AI, ML & Data Science
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![NLTK](https://skillicons.dev/icons?i=nlp) ![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
-![Seaborn](https://skillicons.dev/icons?i=seaborn)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,pandas,matplotlib,seaborn" /></a>
+<img src="https://img.shields.io/badge/NLTK-nlp-blue?logo=python&logoColor=white" alt="NLTK" style="vertical-align:middle; margin-right:4px;"/>
+
 ### 🔧 DevOps & Tools
-![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,aws,vscode" /></a>
 
 </div>
 
@@ -110,12 +89,12 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=My+Contribution+Journey&font=Fira%20Code&center=true&width=300&height=40&color=00d9ff&size=18&pause=2000" alt="Contribution Header"/>
+<!-- GitHub Contribution Snake Animation -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samarthify/samarthify/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/samarthify/samarthify/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/samarthify/samarthify/raw/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
