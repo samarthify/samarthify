@@ -1,126 +1,89 @@
-<div align="center">
+<h1 align="center">Samarthify – AI Engineer & Full-Stack Developer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Crafting+Intelligent+Tools;Automating+Workflows;Building+Real-Time+Systems&font=Fira%20Code&center=true&width=600&height=40&color=00d9ff" alt="Typing Animation"/>
+</p>
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=samarthify&color=blueviolet&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/samarthify?label=Follow&style=social)](https://github.com/samarthify)
+</p>
 
-<!-- Main Animated Header with Multiple Effects -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=AI%20Engineer%20%26%20Full%20Stack%20Developer&width=800&height=200)](https://github.com/samarthify)
-
-<!-- Advanced Typing Animation -->
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Smart+Solutions+for+Real+Problems;Automating+Workflows+with+AI;Real-time+Systems+%26+Computer+Vision;Always+Learning+New+Technologies;&font=Fira%20Code&center=true&width=600&height=50&color=00d9ff&background=000000&vCenter=true&size=24&pause=1000&multiline=false&repeat=true" alt="Typing SVG" />
-</div>
-
-<!-- Visitor Counter -->
-<img src="https://visitcount.itsvg.in/api?id=samarthify&icon=2&color=6" alt="Profile Views"/>
-
-</div>
+---
 
 ## 🚀 About Me
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/coding.gif"/>
+I build **AI-driven** solutions and **scalable** web apps that solve real problems. Passionate about:  
+- **Automating** repetitive workflows  
+- Creating **low-latency**, real-time systems  
+- Delivering **developer-centric** productivity tools  
 
-**Full Stack Developer & AI Engineer** passionate about building solutions that make developers' lives easier and users more productive.
-
-I specialize in **automating tedious workflows** and creating **intelligent applications** that solve real problems. Whether it's streamlining code reviews with AI, building real-time communication systems, or developing computer vision fitness trainers, I love crafting tools that people actually want to use.
-
-### 🎯 What Drives Me
-- Making complex things simple through AI
-- Building real-time, scalable applications
-- Automating repetitive workflows
-- Creating tools developers actually love
-
-<br clear="right"/>
+When not coding, I explore ML research and contribute to open-source.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-<!-- Animated Tech Stack Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Technologies+I+Work+With&font=Fira%20Code&center=true&width=300&height=40&color=f75c7e&size=18&pause=2000" alt="Tech Stack"/>
+**Programming Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-FF4F6D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Go](https://skillicons.dev/icons?i=go)
+<br/>
 
-### Frontend & Frameworks
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Redux](https://skillicons.dev/icons?i=redux)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![MaterialUI](https://skillicons.dev/icons?i=materialui)
+**Version Control & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Backend & Database
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
-![Redis](https://skillicons.dev/icons?i=redis)
+<br/>
 
-### AI/ML & Tools
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Git](https://skillicons.dev/icons?i=git)
+**Data Science & ML Libraries**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-8CAFD1?style=for-the-badge&logo=python&logoColor=white)  
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-333333?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+<br/>
 
----
+**Visualization & BI**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-3299BB?style=for-the-badge&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📊 GitHub Analytics
+<br/>
 
-<div align="center">
+**Frameworks & Backend**  
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)  
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![WebRTC](https://img.shields.io/badge/WebRTC-3399FF?style=for-the-badge&logo=webrtc&logoColor=white)
 
-<!-- Animated Stats Header -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=GitHub+Statistics&width=600&height=120)](https://github.com/samarthify)
+<br/>
 
-<table>
-<tr>
-  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=samarthify&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/>
-  </td>
-  <td width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarthify&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866"/>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthify&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8"/>
-  </td>
-</tr>
-</table>
-
-<!-- GitHub Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samarthify&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Achievements&width=400&height=100)](https://github.com/samarthify)
-
-<img src="https://github-profile-trophy.vercel.app/?username=samarthify&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<!-- Animated Snake Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=My+Contribution+Journey&font=Fira%20Code&center=true&width=300&height=40&color=00d9ff&size=18&pause=2000" alt="Contribution Header"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samarthify/samarthify/output/github-contribution-grid-snake.svg">
-</picture>
+**Data & ML Techniques**  
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-4285F4?style=for-the-badge&logo=python&logoColor=white)  
+![Predictive Modelling](https://img.shields.io/badge/Predictive_Modelling-DB4437?style=for-the-badge&logo=python&logoColor=white)  
+![Regression](https://img.shields.io/badge/Regression-0F9D58?style=for-the-badge&logo=python&logoColor=white)  
+![Clustering](https://img.shields.io/badge/Clustering-F4B400?style=for-the-badge&logo=python&logoColor=white)  
+![Classification](https://img.shields.io/badge/Classification-AB47BC?style=for-the-badge&logo=python&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=nltk&logoColor=white)  
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)  
+![Dashboard Creation](https://img.shields.io/badge/Dashboard_Creation-00ACC1?style=for-the-badge&logo=power-bi&logoColor=white)
 
 </div>
 
@@ -128,92 +91,61 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<details>
+<summary>🤖 AI Code Review Assistant</summary>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=My+Amazing+Projects&width=600&height=120)](https://github.com/samarthify)
+- **Problem:** Manual reviews caused delays & inconsistencies  
+- **Solution:** Web app + VS Code extension with GPT-4 for inline, chat-based feedback  
+- **Impact:** 40% faster reviews, unified coding standards  
+- **Tech:** Python • GPT-4 API • React • VS Code API • Node.js  
 
-</div>
+<img src="https://media.giphy.com/media/26FPnsRww59hBJVWU/giphy.gif" width="300" alt="Code Review Demo"/>
+</details>
 
-### 🤖 AI Code Review Assistant
-> *Reduced team review time by 40% with GPT-4 integration*
+<details>
+<summary>🎤 Real-Time Voice Communication Platform</summary>
 
-**Problem:** Manual code reviews were bottlenecks causing inconsistent standards  
-**Solution:** Built AI-powered tool with web app + VS Code extension using GPT-4 API  
-**Impact:** 40% faster reviews, consistent standards, enhanced productivity
+- **Problem:** High-latency voice calls & no analytics  
+- **Solution:** WebRTC + Socket.io, Vosk/NLTK for transcription & sentiment analysis  
+- **Impact:** <200 ms latency, supports 50+ users, actionable insights  
+- **Tech:** WebRTC • Socket.io • React • Node.js • MongoDB • PostgreSQL  
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/ai-robot.gif" width="100" height="100"/>
-</div>
+<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="300" alt="Voice Platform Demo"/>
+</details>
 
----
+<details>
+<summary>🏋️ AI Fitness Trainer</summary>
 
-### 🎤 P2P Voice Communication Platform  
-> *Sub-200ms latency with real-time transcription*
+- **Problem:** Lack of real-time form feedback at home  
+- **Solution:** MediaPipe Pose + OpenCV for 33-point tracking & rep counting  
+- **Impact:** Accessible AI coaching, safer workouts  
+- **Tech:** MediaPipe • OpenCV • Python • Computer Vision  
 
-**Problem:** High-latency voice platforms with poor analytics  
-**Solution:** WebRTC + Socket.io system with real-time transcription via Vosk/NLTK  
-**Impact:** <200ms latency, 50 concurrent users, enhanced insights
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/voice.gif" width="100" height="100"/>
-</div>
-
----
-
-### 🏋️ AI Fitness Trainer
-> *MediaPipe-powered workout companion with form feedback*
-
-**Problem:** Lack of accessible real-time workout feedback without expensive equipment  
-**Solution:** MediaPipe Pose + OpenCV for rep counting and form analysis  
-**Impact:** Affordable AI fitness coaching, improved safety and engagement
-
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/fitness.gif" width="100" height="100"/>
-</div>
+<img src="https://media.giphy.com/media/3o7aCSYNcDrJXyBqCc/giphy.gif" width="300" alt="Fitness Trainer Demo"/>
+</details>
 
 ---
 
-## 📈 Contribution Metrics
+## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Always+Building%2C+Always+Learning&font=Fira%20Code&center=true&width=400&height=40&color=f75c7e&size=18&pause=2000" alt="Building Learning"/>
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/samarthify)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=samarthify&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarthify&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let’s Connect
 
 <div align="center">
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Let's+Connect!&width=400&height=100)](https://github.com/samarthify)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Open+to+interesting+conversations;And+collaboration+opportunities;Let's+build+something+useful+together!&font=Fira%20Code&center=true&width=500&height=50&color=00d9ff&size=16&pause=1000&multiline=true" alt="Footer Message"/>
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthnagpal)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/samarthify)  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthifyy@gmail.com)  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://samarthify.com)
 </div>
 
 ---
 
 <div align="center">
-
-**"The best technology feels invisible—it just works and makes complex things simple."**
-
-<br/>
-
-![Profile Views](https://visitcount.itsvg.in/api?id=samarthify&label=Thanks%20for%20visiting&color=6&icon=2&pretty=true)
-
-⭐ **Like what you see? Give my repos a star!** ⭐
-
+  *"Invisible tech that just works, making complex things simple."*
 </div>
