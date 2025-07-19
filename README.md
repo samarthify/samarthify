@@ -34,21 +34,25 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Technologies+I+Work+With&font=Fira%20Code&center=true&width=300&height=40&color=f75c7e&size=18&pause=2000" alt="Tech Stack"/>
 
-### Programming Languages
+*Here's a snapshot of the technologies I wield to build powerful and intelligent applications:*
+
+### 👨‍💻 Languages & Core
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
-![SQL](https://skillicons.dev/icons?i=mysql) ### Frontend & Frameworks
+![SQL](https://skillicons.dev/icons?i=mysql)
+
+### 🖥️ Frontend Development
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
-### Backend & Database
+### ⚙️ Backend & Databases
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express.js](https://skillicons.dev/icons?i=express)
 ![Flask](https://skillicons.dev/icons?i=flask)
@@ -56,19 +60,20 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![SQLite](https://skillicons.dev/icons?i=sqlite)
 ![Redis](https://skillicons.dev/icons?i=redis)
-
-### AI/ML & Data
+![Postman](https://skillicons.dev/icons?i=postman) ### 🧠 AI, ML & Data Science
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ![Scikit-learn](https://skillicons.dev/icons?i=sklearn)
-![NLTK](https://skillicons.dev/icons?i=nlp) ![OpenCV](https://skillicons.dev/icons?i=opencv)
+![NLTK](https://skillicons.dev/icons?i=nlp)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
 ![Pandas](https://skillicons.dev/icons?i=pandas)
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 ![Seaborn](https://skillicons.dev/icons?i=seaborn)
-### Tools & Platforms
+### 🔧 DevOps & Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+
 </div>
 
 ---
@@ -96,18 +101,6 @@ I specialize in **automating tedious workflows** and creating **intelligent appl
 </table>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samarthify&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Achievements&width=400&height=100)](https://github.com/samarthify)
-
-<img src="https://github-profile-trophy.vercel.app/?username=samarthify&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 
 </div>
 
