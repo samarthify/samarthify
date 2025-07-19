@@ -23,19 +23,50 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/samarthify/ai-code-review-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthify&repo=ai-code-review-assistant&theme=radical" />
-  </a>
-  <a href="https://github.com/samarthify/p2p-voice-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthify&repo=p2p-voice-platform&theme=radical" />
-  </a>
-  <a href="https://github.com/samarthify/ai-fitness-trainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samarthify&repo=ai-fitness-trainer&theme=radical" />
-  </a>
-</p>
+<div align="center">
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=My+Amazing+Projects&width=600&height=120)](https://github.com/samarthify)
+
+</div>
+
+### 🤖 AI Code Review Assistant
+> *Reduced team review time by 40% with GPT-4 integration*
+
+**Problem:** Manual code reviews were bottlenecks causing inconsistent standards  
+**Solution:** Built AI-powered tool with web app + VS Code extension using GPT-4 API  
+**Impact:** 40% faster reviews, consistent standards, enhanced productivity
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/ai-robot.gif" width="100" height="100"/>
+</div>
+
+---
+
+### 🎤 P2P Voice Communication Platform  
+> *Sub-200ms latency with real-time transcription*
+
+**Problem:** High-latency voice platforms with poor analytics  
+**Solution:** WebRTC + Socket.io system with real-time transcription via Vosk/NLTK  
+**Impact:** <200ms latency, 50 concurrent users, enhanced insights
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/voice.gif" width="100" height="100"/>
+</div>
+
+---
+
+### 🏋️ AI Fitness Trainer
+> *MediaPipe-powered workout companion with form feedback*
+
+**Problem:** Lack of accessible real-time workout feedback without expensive equipment  
+**Solution:** MediaPipe Pose + OpenCV for rep counting and form analysis  
+**Impact:** Affordable AI fitness coaching, improved safety and engagement
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/GIFs/fitness.gif" width="100" height="100"/>
+</div>
 
 ---
 
